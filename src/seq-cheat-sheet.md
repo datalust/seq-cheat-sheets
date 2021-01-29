@@ -55,9 +55,9 @@ There are two ways to explore log data in Seq:
 - **Search expressions** for filtering and signals
 - **Queries** for analyzing and dashboarding
 
-Run search expressions and queries in the same "search box" by pressing Enter, or clicking ![the refresh button](img-src).
+Run search expressions and queries in the same "search box" by pressing Enter, or clicking ![the refresh button](https://github.com/datalust/seq-cheat-sheets/blob/main/src/img/refresh-btn.png).
 
-![A screenshot of the Seq search box, at the top left of the Events page](img-src)
+![A screenshot of the Seq search box, at the top left of the Events page](https://github.com/datalust/seq-cheat-sheets/blob/main/src/img/searchbox.png)
 
 ## Text Fragments
 
@@ -400,7 +400,7 @@ limit 1000
 
 Tip: Chart your query results as a line, bar, or pie chart directly in the events screen, using these buttons:
 
-![A row of 4 buttons: 'Rowset', 'Line chart', 'Bar graph', 'Pie chart'](img-src)
+![A row of 4 buttons: 'Rowset', 'Line chart', 'Bar graph', 'Pie chart'](https://github.com/datalust/seq-cheat-sheets/blob/main/src/img/chart-button-row.png)
 
 ## Duration functions
 
