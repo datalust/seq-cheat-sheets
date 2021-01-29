@@ -10,12 +10,12 @@ Cheat sheet for Seq filtering and querying syntax.
 
 ## Preview
 
-![Seq cheat sheet page 1](https://github.com/datalust/seq-cheat-sheets/main/png/seq-cheat-sheet-page-1.md)
+![Seq cheat sheet page 1](https://github.com/datalust/seq-cheat-sheets/blob/main/png/seq-cheat-sheet-page-1.png)
 
-![Seq cheat sheet page 2](https://github.com/datalust/seq-cheat-sheets/main/png/seq-cheat-sheet-page-2.md)
+![Seq cheat sheet page 2](https://github.com/datalust/seq-cheat-sheets/blob/main/png/seq-cheat-sheet-page-2.png)
 
-![Seq cheat sheet page 3](https://github.com/datalust/seq-cheat-sheets/main/png/seq-cheat-sheet-page-3.md)
+![Seq cheat sheet page 3](https://github.com/datalust/seq-cheat-sheets/blob/main/png/seq-cheat-sheet-page-3.png)
 
-![Seq cheat sheet page 4](https://github.com/datalust/seq-cheat-sheets/main/png/seq-cheat-sheet-page-4.md)
+![Seq cheat sheet page 4](https://github.com/datalust/seq-cheat-sheets/blob/main/png/seq-cheat-sheet-page-4.png)
 
-![Seq cheat sheet page 5](https://github.com/datalust/seq-cheat-sheets/main/png/seq-cheat-sheet-page-5.md)
+![Seq cheat sheet page 5](https://github.com/datalust/seq-cheat-sheets/blob/main/png/seq-cheat-sheet-page-5.png)
