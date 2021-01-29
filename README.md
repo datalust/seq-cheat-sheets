@@ -1,4 +1,4 @@
-# Seq Cheat Sheets [![Download PDF](https://img.shields.io/badge/download-pdf-blue.svg)](https://github.com/datalust/seq-cheat-sheets/releases) [![Read text](https://img.shields.io/badge/view-txt-green.svg)](https://github.com/datalust/seq-cheat-sheets/main/src/seq-cheat-sheet.md)
+# Seq Cheat Sheets [![Download PDF](https://img.shields.io/badge/download-pdf-blue.svg)](https://github.com/datalust/seq-cheat-sheets/releases) [![Read text](https://img.shields.io/badge/view-txt-green.svg)](https://github.com/datalust/seq-cheat-sheets/blob/main/src/seq-cheat-sheet.md)
 
 Cheat sheet for Seq filtering and querying syntax.
 
