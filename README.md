@@ -2,11 +2,11 @@
 
 Cheat sheet for Seq filtering and querying syntax.
 
-> [Download the PDF.](https://github.com/datalust/seq-cheat-sheets/main/pdf/seq-cheat-sheet.pdf)
+> [Download the PDF.](https://github.com/datalust/seq-cheat-sheets/blob/main/pdf/seq-cheat-sheet.pdf)
 
-> [Download the printer friendly PDF.](https://github.com/datalust/seq-cheat-sheets/main/pdf/seq-cheat-sheet-printer-friendly.pdf)
+> [Download the printer friendly PDF.](https://github.com/datalust/seq-cheat-sheets/blob/main/pdf/seq-cheat-sheet-printer-friendly.pdf)
 
-> [View the text version on GitHub.](https://github.com/datalust/seq-cheat-sheets/main/src/seq-cheat-sheet.md)
+> [View the text version on GitHub.](https://github.com/datalust/seq-cheat-sheets/blob/main/src/seq-cheat-sheet.md)
 
 ## Preview
 
