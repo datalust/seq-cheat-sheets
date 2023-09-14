@@ -157,7 +157,7 @@ Use a single-quote to escape a single-quote, `%%` escapes `%` in `like` expressi
 | `=  <>  like`      | Comparators       |
 | `Length(text)`   |          |
 | `ToLower(text)`   |          |
-| `ToUpter(text)`   |          |
+| `ToUpper(text)`   |          |
 | `IndexOf(text, pattern)`   |    `pattern` can be a string or regex|
 | `StartsWith(text, pattern)`   |          |
 | `EndsWith(text, pattern)`   |          |
@@ -166,7 +166,7 @@ Use a single-quote to escape a single-quote, `%%` escapes `%` in `like` expressi
 
 ## Numbers
 
-Integers, decimals (floats), and hexademical are all represented as 128-bit decimal values.
+Integers, decimals (floats), and hexadecimal are all represented as 128-bit decimal values.
 
 ### Equality
 
@@ -186,7 +186,7 @@ ElapsedMilliseconds > 1500
 StatusCode = ToNumber('401')
 ```
 
-## Number fuctions
+## Number functions
 
 |        |   |
 | ----------- | -----------: |
@@ -254,7 +254,7 @@ Seq supports **duration literals** like `1d` or `30m` as a shorthand way of writ
 ### Get events before 11am GMT+10
 
 ```
-TiemeOfDay(@Timestamp, 10) < 11h
+TimeOfDay(@Timestamp, 10) < 11h
 ```
 
 ## Date and time functions
@@ -370,7 +370,7 @@ Find the top 10 `RequestPath`s that have returned a `StatusCode` of 400, or abov
 
 ## Time slice queries
 
-Seq can generate timeseries data using the special `time()` grouping, in conjuction with a **duration literal** (e.g. `1d`, `30m`) that determines the time interval to use.
+Seq can generate time series data using the special `time()` grouping, in conjunction with a **duration literal** (e.g. `1d`, `30m`) that determines the time interval to use.
 
 ### Count by time slice
 
@@ -455,7 +455,7 @@ select min(Elapsed), max(Elapsed) from stream
 Get smallest and largest `Elapsed`.
 
 ```
-select min(Elapsed), max(Elapsed), mean (Elapsed), percentile(Elapsed, 90) from stream goup by time(1h)
+select min(Elapsed), max(Elapsed), mean (Elapsed), percentile(Elapsed, 90) from stream group by time(1h)
 ```
 
 Plot aggregates over time.
@@ -497,7 +497,7 @@ Note: All property names are case-sensitive.
 | --- | --- | --- | --- |
 | Timestamp | `@t` | `@Timestamp` | Timestamp in ticks |
 | Message | `@m` | `@Message` |  |
-| Event Type | `@i` | `@EventType` | Maybe a number, or hexademical string |
+| Event Type | `@i` | `@EventType` | Maybe a number, or hexadecimal string |
 | Event Id | | `@Id` | e.g. 'event-313db38ac31d...' |
 | Level | `@l` | `@Level` | |
 | Exception | `@x` | `@Exception` | Usually a stack trace |
